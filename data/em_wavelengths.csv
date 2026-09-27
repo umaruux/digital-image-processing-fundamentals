@@ -1,0 +1,13 @@
+band_or_color,wavelength_m,note
+Radio,3.0,representative
+Microwave,0.03,representative
+Infrared,1e-05,representative
+Violet,4.3e-07,visible
+Blue,4.7e-07,visible
+Green,5.3e-07,visible
+Yellow,5.8e-07,visible
+Orange,6.1e-07,visible
+Red,7e-07,visible
+Ultraviolet,3e-07,representative
+X-ray,1e-10,representative
+Gamma ray,1e-12,representative

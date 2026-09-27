@@ -1,0 +1,6 @@
+parameter,CCD,CMOS,unit_or_note
+power_low,2,20,CCD W; CMOS mW
+power_high,5,50,CCD W; CMOS mW
+simulation_noise_sigma,3,8,gray levels; lab assumption
+full_frame_pixels,16000000,16000000,pixels
+ROI_pixels,,1000000,CMOS selective ROI example

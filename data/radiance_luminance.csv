@@ -1,0 +1,6 @@
+source,radiance_W,luminance_lm,subjective_brightness_rating_0_to_1
+A_visible_green,12.0,4200,0.78
+B_visible_red,10.0,1800,0.55
+C_near_IR,18.0,80,0.08
+D_visible_blue,8.0,900,0.43
+E_visible_yellow,9.0,3100,0.71
